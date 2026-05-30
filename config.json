@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailralculate",
+        "uuid": 5431894,
+        "checksum": "4823xw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
